@@ -34,4 +34,13 @@ git status
 git add .
 git add nombredelarchivo.extension
 ```
+
+* Crear el registro de los cambios relizados:
+```bash
+git commit -m "comentario corto y conciso"
+```
+* Para ver una linea de tiempo de los commits que hemos realizado:
+```bash
+git log
+```
  
